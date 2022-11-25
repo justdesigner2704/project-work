@@ -1,4 +1,19 @@
 #brand-academia {
     font-size: 36px;
+
     
 }
+.hoveric:hover {
+    color: #056812;
+}
+
+.fa-clock {
+    color: #fff;
+    margin-top: 15px;
+}
+
+.text-sm {
+    font-size: 16px;
+}
+
+
