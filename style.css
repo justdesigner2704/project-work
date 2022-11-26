@@ -16,4 +16,41 @@
     font-size: 16px;
 }
 
+.fix {
+    width: 800px;
+    height: 700px;
+    position: static;
+    margin-right: -100px;
+    margin-top:  -170px;
+    background-image: url("https://o.remove.bg/downloads/98506772-3266-4f65-a11e-c98f853ad685/image-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.second-nav {
+    margin-left: 200px;
+    width: 1500px;
+    height: 80px;
+    padding: 0;
+    background: rgba(255, 255, 255, 0.253);
+    
+}
+
+.get-btn {
+    height: 80px;
+    width: 200px;
+    margin-left: 520px;
+    border-radius: 0;
+}
+
+.two {
+    width: 100%;
+    height: 850px;
+}
+
+.img-section-two {
+    width: 90%;
+    height: 100%;
+}
 
