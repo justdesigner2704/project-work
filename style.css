@@ -20,12 +20,19 @@
     width: 800px;
     height: 700px;
     position: static;
-    margin-right: -100px;
-    margin-top:  -170px;
+    image-rendering: optimizeQuality;
+    margin-right: -200px;
+    margin-top: 10px;
     
-    background-repeat: no-repeat;
-    background-size: cover;
     
+    
+}
+.img-fix {
+    position: static;
+    width: 100%;
+    height: 100%;
+    
+    padding: 0;
 }
 
 .second-nav {
@@ -52,5 +59,7 @@
 .img-section-two {
     width: 90%;
     height: 100%;
+    image-rendering: optimizeQuality;
+    
 }
 
