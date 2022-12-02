@@ -167,4 +167,15 @@
 }
 .course-active .saffir {
   color: #fff;
+}
+
+.card-text-hover:hover {
+  color: #1EB2A6;
+}
+
+.eight {
+  background-color: #1EB2A6;
+  width: 100%;
+  height: 180px;
+  margin-bottom: 30px;
 }/*# sourceMappingURL=style.css.map */
