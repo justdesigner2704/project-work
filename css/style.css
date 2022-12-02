@@ -117,10 +117,54 @@
   margin-top: 10px;
   position: absolute;
   margin-left: 4.5px;
+  -webkit-margin-start: 20px;
+          margin-inline-start: 20px;
 }
 
 .card-p {
   display: inline;
   margin-left: 100px;
   font-weight: 500;
+}
+
+.card-heading {
+  font-weight: 700;
+  font-size: 18px;
+  padding: 0;
+}
+
+.saffir {
+  color: #1EB2A6;
+  text-align: center;
+}
+
+.courses-heading {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.courses-btn {
+  text-align: center;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.courses-card {
+  margin-left: 5px;
+  padding: 20px;
+}
+.courses-card:hover {
+  background-color: #1EB2A6;
+  border-radius: 10px;
+}
+.courses-card:hover .saffir {
+  color: #fff;
+}
+
+.course-active {
+  background-color: #1EB2A6;
+  border-radius: 10px;
+}
+.course-active .saffir {
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
