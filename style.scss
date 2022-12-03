@@ -189,3 +189,33 @@
     height: 180px;
     margin-bottom: 30px;
 }
+
+.circle-border {
+    border-radius: 50px;
+    background-color: #1EB2A6;
+    padding: 8px;
+    color: #fff;
+    border-color: #1EB2A6;
+
+}
+
+.border-rad {
+    border-radius: 5px;
+}
+
+.space-no {
+    margin: 0;
+    padding: 0;
+    h6{
+        margin: 0;
+        padding: 0;
+        margin-left: -55px;
+    }
+}
+
+// .border-radius-img {
+//     border: none;
+//     border-radius: 250px;
+//     padding: 0px;
+//     width: max-content;
+// }
